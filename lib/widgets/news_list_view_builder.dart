@@ -14,25 +14,13 @@ class NewsListViewBuilder extends StatefulWidget {
 class _NewsListViewBuilderState extends State<NewsListViewBuilder> {
   List<ArticleModel> articles = [];
 
-  bool isLoading = true;
-  @override
-  void initState() {
-    super.initState();
-    getGeneralNews();
-  }
-
-  Future<void> getGeneralNews() async {
-    articles = await NewsService(Dio()).getNews();
-    isLoading = false;
-    setState(() {});
-  }
-
   @override
   Widget build(BuildContext context) {
-    return isLoading
-        ? SliverToBoxAdapter(
-            child: Center(child: const CircularProgressIndicator()),
-          )
-        : NewsListView(articles: articles);
+    return FutureBuilder(
+      future: NewsService(Dio()).getNews(),
+      builder: (context, snapshot) {
+        return NewsListView(articles: articles);
+      },
+    );
   }
 }
