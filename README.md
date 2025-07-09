@@ -1,16 +1,27 @@
-# app06
+# 📰 Flutter News App – Beginner Friendly
 
-A new Flutter project.
+Welcome! 👋  
+This is a simple news app built using **Flutter**, created mainly for **learning and practice**.
 
-## Getting Started
+If you're just getting started with Flutter and want to explore how to:
 
-This project is a starting point for a Flutter application.
+- Make API calls
+- Parse JSON data
+- Build UI with ListView and images
+- Work with asynchronous code
 
-A few resources to get you started if this is your first Flutter project:
+…then this app is for you!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What does the app do?
+
+It connects to a free News API and shows you the latest headlines in a clean list view. Each news card displays:
+
+- 🖼 A thumbnail image  
+- 📰 The article title  
+- 📝 A short description  
+
+You can use it to understand how networking works in Flutter and how to display real data on the screen.
+
+---
