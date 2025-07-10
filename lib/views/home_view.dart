@@ -21,7 +21,7 @@ class HomeView extends StatelessWidget {
               ),
             ),
             Text(
-              'Cloud',
+              'App',
               style: TextStyle(
                 color: Colors.amber,
                 fontSize: 24,
@@ -32,12 +32,12 @@ class HomeView extends StatelessWidget {
         ),
       ),
       body: Padding(
-        padding: EdgeInsets.symmetric(horizontal: 16),
+        padding: EdgeInsets.symmetric(horizontal: 2),
         child: CustomScrollView(
           slivers: [
             SliverToBoxAdapter(child: CategoriesListView()),
 
-            SliverToBoxAdapter(child: SizedBox(height: 32)),
+            SliverToBoxAdapter(child: SizedBox(height: 10)),
 
             NewsListViewBuilder(category: 'general'),
           ],
