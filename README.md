@@ -3,6 +3,12 @@
 Welcome! 👋  
 This is a simple news app built using **Flutter**, created mainly for **learning and practice**.
 
+<p align="center">
+  <img src="assets/screen1.png" alt="Screen 1" width="30%" />
+  <img src="assets/screen2.png" alt="Screen 2" width="30%" />
+  <img src="assets/screen3.png" alt="Screen 3" width="30%" />
+</p>
+
 If you're just getting started with Flutter and want to explore how to:
 
 - Make API calls
@@ -24,7 +30,5 @@ It connects to a free News API and shows you the latest headlines in a clean lis
 
 You can use it to understand how networking works in Flutter and how to display real data on the screen.
 
-![Project Banner](assets/screen1.png)  
-![Project Banner](assets/screen2.png)  
-![Project Banner](assets/screen3.png)  
+
 ---
