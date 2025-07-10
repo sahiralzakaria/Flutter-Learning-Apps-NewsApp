@@ -3,10 +3,10 @@
 Welcome! 👋  
 This is a simple news app built using **Flutter**, created mainly for **learning and practice**.
 
-<p align="center">
-  <img src="assets/screen1.png" alt="Screen 1" width="30%" />
-  <img src="assets/screen2.png" alt="Screen 2" width="30%" />
-  <img src="assets/screen3.png" alt="Screen 3" width="30%" />
+<p align="center" style="display: flex; gap: 10px;">
+  <img src="assets/screen1.png" alt="Screen 1" width="30%" style="border: 2px solid #ccc; border-radius: 8px; margin-right: 10px;" />
+  <img src="assets/screen2.png" alt="Screen 2" width="30%" style="border: 2px solid #ccc; border-radius: 8px; margin-right: 10px;" />
+  <img src="assets/screen3.png" alt="Screen 3" width="30%" style="border: 2px solid #ccc; border-radius: 8px;" />
 </p>
 
 If you're just getting started with Flutter and want to explore how to:
