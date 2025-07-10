@@ -27,7 +27,6 @@ class CategoryCard extends StatelessWidget {
           decoration: BoxDecoration(borderRadius: BorderRadius.circular(20)),
           child: Stack(
             children: [
-              // الصورة الخلفية
               Container(
                 decoration: BoxDecoration(
                   color: Colors.amber,
@@ -38,14 +37,12 @@ class CategoryCard extends StatelessWidget {
                   borderRadius: BorderRadius.circular(20),
                 ),
               ),
-              // طبقة شفافة للنص
               Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(20),
-                  color: Colors.black.withOpacity(0.3), // طبقة شفافة
+                  color: Colors.black.withOpacity(0.3),
                 ),
               ),
-              // النص
               Center(
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),
