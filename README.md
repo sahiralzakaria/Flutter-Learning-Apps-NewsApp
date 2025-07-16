@@ -1,6 +1,5 @@
 # 📰 Flutter News App – Beginner Friendly
 
-
 Welcome! 👋  
 This is a simple news app built using **Flutter**, created mainly for **learning and practice**.
 
