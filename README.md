@@ -5,7 +5,6 @@ This is a simple news app built using **Flutter**, created mainly for **learning
 
 ## 📸 App Screenshots
 
-
 <div align="center">
   <img src="assets/screen1.png" alt="Home Screen" width="220" style="margin: 0 5px; border: 3px solid #4CAF50; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); padding: 5px; background: white;">
   &nbsp;&nbsp;&nbsp;&nbsp;
