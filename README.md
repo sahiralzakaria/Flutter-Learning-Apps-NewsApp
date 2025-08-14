@@ -18,7 +18,6 @@ This is a simple news app built using **Flutter**, created mainly for **learning
 
 ---
 
-
 ## 💡 What does the app do?
 
 It connects to a free News API and shows you the latest headlines in a clean list view. Each news card displays:
