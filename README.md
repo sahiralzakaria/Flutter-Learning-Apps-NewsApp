@@ -39,6 +39,7 @@ If you're just getting started with Flutter and want to explore how to:
 
 …then this app is for you!
 
+
 ---
 
 ## 🛠️ Technologies Used
