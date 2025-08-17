@@ -5,6 +5,7 @@ Welcome! 👋
 This is a simple news app built using **Flutter**, created mainly for **learning and practice**.
 
 
+
 ## 📸 App Screenshots
 
 <div align="center">
