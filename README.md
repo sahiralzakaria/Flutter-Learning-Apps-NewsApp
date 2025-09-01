@@ -60,7 +60,6 @@ If you're just getting started with Flutter and want to explore how to:
 
 ---
 
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests. This is a learning project, so any improvements are welcome!
