@@ -40,7 +40,6 @@ If you're just getting started with Flutter and want to explore how to:
 
 ---
 
-
 ## 🛠️ Technologies Used
 
 - **Flutter** - Cross-platform mobile development
