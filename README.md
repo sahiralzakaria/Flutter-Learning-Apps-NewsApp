@@ -28,7 +28,6 @@ It connects to a free News API and shows you the latest headlines in a clean lis
 
 You can use it to understand how networking works in Flutter and how to display real data on the screen.
 
-
 ---
 
 
